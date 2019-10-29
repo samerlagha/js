@@ -24,8 +24,6 @@ console.log("5 + undefined: ", 5 + undefined);
 'text' + null;
 console.log("text + null: ", text + null);
 let num = 17;
-console.log("num: ", num);
-
 // Постфиксная и префиксная форма записи
 ++num;
 console.log("++num: ", ++null);
