@@ -27,10 +27,10 @@ console.log("'text' + null: ", 'text' + null);
 let num = 17;
 // Постфиксная и префиксная форма записи
 ++num;
-console.log("++num: ", num);
+console.log("++num: ", ++num);
 
 num++;
-console.log("num++: ", num);
+console.log("num++: ", num++);
 
 // математические операторы приводят операнды к числам
 const a = 17;
